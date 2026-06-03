@@ -1,59 +1,83 @@
 # 👋 Hi there, I'm Priya Sharma!
 
-I'm a passionate **Full Stack Developer** who loves building scalable web apps and solving real-world problems with clean, efficient code.
+I'm a passionate **Full Stack Engineer** with 2.5+ years of experience building scalable web platforms, microfrontend-based applications, and assessment systems. I love clean architecture, mentoring developers and solving real-world problems with efficient code.
 
 ---
 
 ## 💼 Experience
 
-🔹 **Associate Software Developer** at *Iauro Systems Pvt. Ltd.*  
-• Built robust frontend components using **React.js**, **Material UI**, and **MicroFrontend architecture**  
-• Worked on large data tables with efficient **pagination**, **lazy loading**, and **filtered file downloads**  
-• Contributed to a **component library via Storybook** and resolved complex **routing** and **API integration** challenges
+🔹 **SDE-1 + Subject Matter Expert** at *Newton School of Technology* *(Dec 2025 – Present)*
+- Mentored **200+ students** across System Design, LLD, TypeScript, and backend engineering
+- Delivered sessions on SOLID principles, design patterns, microservices, and API architecture
+- Core engineering contributor on Newton's internal **assessment & coding platform** (LeetCode-style)
+- Built scalable modules for automated evaluation, submission management, and question dashboards
+- Guided students in **open-source contributions**, hackathons and resume building
 
-🔹 **Freelance Projects**  
-• 📦 *OrderOrbit* (AdminJS + React): Enhanced order/product dashboards, integrated RESTful APIs, and implemented UI state management  
-• 💼 *CampusHire Portal*: Built a full-featured job portal with **React.js**, SEO optimization, and custom UI/UX design  
+🔹 **Associate Software Developer** at *Iauro Systems Pvt. Ltd. — Banking Client* *(Aug 2024 – Nov 2025)*
+- Built high-reliability dashboards using **React.js**, **FastAPI**, and **microfrontend architecture** for **5,000+ MAUs**
+- Implemented **RBAC**, multi-role UI rendering, and authorization workflows — reduced access issues by 30%
+- Integrated server-side pagination, infinite scrolling, and data virtualization — cut DOM load by 40%
+- Optimized load performance via lazy loading, caching, and CDN delivery — reduced initial load time by 35%
 
-🔹 **Deloitte USI** – DC Analyst  
-• Contributed to **Muis-CRM**, developing secure, responsive, and interactive UI components for financial modules using **React, Redux Toolkit**, and **Styled Components**
+🔹 **Full Stack Developer** at *Agoryx* *(June 2024 – Oct 2024)*
+- Delivered end-to-end product workflows using the **MERN stack**
+- Engineered reusable React.js components and optimized MongoDB data models for faster queries
+
+🔹 **DC Analyst** at *Deloitte USI — CRM Project* *(Oct 2023 – June 2024)*
+- Developed dynamic role-driven workflows using **React.js**, **Node.js/Express**, and **MongoDB**
+- Built configurable validation layers improving operational efficiency and reducing turnaround time
+- Improved API documentation and frontend-backend collaboration, reducing integration issues
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** JavaScript, TypeScript, C++, Java  
-**Frontend:** React.js, HTML5, CSS3, Tailwind, Material UI, Bootstrap, Web Components  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, MySQL, PostgreSQL  
-**Tools & Others:** Git, GitHub, Postman, Swagger, AdminJS, Figma, Canva, Storybook
+**Languages:** JavaScript, TypeScript, C/C++, Python, HTML5, CSS3, SASS  
+**Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Material UI, Styled Components, Storybook  
+**Backend:** Node.js, Express.js, FastAPI, GraphQL, REST APIs, JWT, OAuth2, Socket.IO  
+**Databases:** MongoDB, MySQL, Redis, Mongoose  
+**Cloud & Tools:** AWS, Docker, Git, GitHub, GitLab, CI/CD, Swagger, Postman, Vercel, Netlify, Render  
+**Core CS:** OS, OOP, DBMS, Computer Networks, Multithreading, Memory Management, System design
+
+---
+
+## 🚀 Projects
+
+**CollabDocs – Real-time Document Editor** | [Live Demo](#) · [GitHub](#)
+- Collaborative editor supporting **10+ concurrent users** with live cursor sync and secure sharing
+- End-to-end ownership: API design, authentication, deployment, and data modeling
+
+**Personal Portfolio Website** | [Live Demo](#) · [GitHub](#)
+- Responsive portfolio with project filtering, smooth animations, and SEO optimization
 
 ---
 
 ## 🏆 Achievements
 
-✅ **AWS Certified Developer Associate** (Score: 820/1000)  
-🏅 Secured **Top 2** in *Chhalaang 3.0* Hackathon by HighLevel  
-🎯 Ranked **Top 10 overall** in India’s largest Women’s Hackathon  
+✅ **AWS Certified Developer – Associate** (Score: 820/1000)  
+🏅 **Top 2 Finalist** – Chhalaang 3.0 Women Hackathon  
+🎯 **AIR 100** – Naukri.com Brandquezt Contest 2025  
+🌍 **Mentor & Core Team Member** – Open Source Connect India  
 
 ---
 
 ## 📚 Currently Exploring
 
-- 🐳 Docker & Containerization  
-- ☁️ Cloud Deployments & System Design  
-- ⚙️ Unit Testing & CI/CD with GitHub Actions  
+- ⚙️ Advanced System Design & Microservices
+- 🐳 Docker & Container Orchestration
+- ☁️ Cloud Architecture on AWS
+- 🧪 Unit Testing & CI/CD pipelines
 
 ---
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/priya-sharma-10baa01b6/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=flat-square)](https://leetcode.com/priya1121/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=flat-square)](https://www.hackerrank.com/profile/ps7701124)  
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?logo=geeksforgeeks&style=flat-square)](https://auth.geeksforgeeks.org/user/ps7701124)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=flat-square)](https://github.com/PRIYA1102S)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=flat-square)](https://leetcode.com/priya1121/)
+
+📧 priyasharma110524@gmail.com · 📱 +91 8114455640
 
 ---
 
-🚀 **“Always building. Always learning.”**
+🚀 *"Always building. Always learning."*
