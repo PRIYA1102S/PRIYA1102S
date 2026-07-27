@@ -13,7 +13,7 @@ I'm a passionate **Full Stack Engineer** with 2.5+ years of experience building 
 - Built scalable modules for automated evaluation, submission management, and question dashboards
 - Guided students in **open-source contributions**, hackathons and resume building
 
-🔹 **Associate Software Developer** at *Iauro Systems Pvt. Ltd. — Banking Client* *(Aug 2024 – Nov 2025)*
+🔹 **Associate Software Developer** at *Iauro Systems Pvt. Ltd. — Banking Client* *(Oct 2024 – Nov 2025)*
 - Built high-reliability dashboards using **React.js**, **FastAPI**, and **microfrontend architecture** for **5,000+ MAUs**
 - Implemented **RBAC**, multi-role UI rendering, and authorization workflows — reduced access issues by 30%
 - Integrated server-side pagination, infinite scrolling, and data virtualization — cut DOM load by 40%
@@ -23,7 +23,7 @@ I'm a passionate **Full Stack Engineer** with 2.5+ years of experience building 
 - Delivered end-to-end product workflows using the **MERN stack**
 - Engineered reusable React.js components and optimized MongoDB data models for faster queries
 
-🔹 **DC Analyst** at *Deloitte USI — CRM Project* *(Oct 2023 – June 2024)*
+🔹 **DC Analyst** at *Deloitte USI — CRM Project* *(Oct 2023 – Oct 2024)*
 - Developed dynamic role-driven workflows using **React.js**, **Node.js/Express**, and **MongoDB**
 - Built configurable validation layers improving operational efficiency and reducing turnaround time
 - Improved API documentation and frontend-backend collaboration, reducing integration issues
