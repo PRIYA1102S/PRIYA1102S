@@ -45,13 +45,13 @@ timeline
     Dec 2025 : AI Software Development Engineer @ Incanus Technologies
 ```
 
-🔹 **AI Software Development Engineer** — *Incanus Technologies Pvt. Ltd.* `Dec 2025 – Present`
+**AI Software Development Engineer** — *Incanus Technologies Pvt. Ltd.* &nbsp; `Dec 2025 – Present`
 > Architected a production Agentic RAG platform (LangGraph, 12+ conditional nodes), hybrid FAISS + BM25 search across 500K+ embeddings, and CollabDocs — a real-time CRDT-based collaborative editor.
 
-🔹 **Associate Software Developer** — *Iauro Systems Pvt. Ltd.* `Oct 2024 – Nov 2025`
+**Associate Software Developer** — *Iauro Systems Pvt. Ltd.* &nbsp; `Oct 2024 – Nov 2025`
 > Built React.js + FastAPI microfrontend modules for 5,000+ MAUs; cut DOM overhead by 40% and API latency from 1.8s → 380ms.
 
-🔹 **Full Stack Developer** — *Deloitte USI* `Oct 2023 – Oct 2024`
+**Full Stack Developer** — *Deloitte USI* &nbsp; `Oct 2023 – Oct 2024`
 > Delivered scalable CRM workflows (React.js, Express.js, MongoDB), cutting turnaround time by 25%.
 
 ---
@@ -94,10 +94,6 @@ timeline
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYA1102S&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYA1102S&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 ### 🐍 Contribution Snake
@@ -110,16 +106,17 @@ timeline
 
 ---
 
-### 🏆 Achievements & Trophies
+### 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PRIYA1102S&theme=darkhub&no-frame=true&row=1&column=6" />
-</div>
 
-✅ **AWS Certified Developer – Associate** (2024) — Score: 820/1000
-🏅 **Top 2 Finalist** — Chhalaang 3.0 (500+ candidates)
-🎯 **AIR 100** — Naukri Brandquest (2025)
-🌍 **Mentored 200+ students** across GSoC, SIH, and hackathons
+<img src="https://img.shields.io/badge/AWS_Certified_Developer-Associate_%C2%B7_820%2F1000-2c3e6b?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Chhalaang_3.0-Top_2_Finalist_%C2%B7_500%2B_candidates-3d5494?style=for-the-badge&logo=starship&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Naukri_Brandquest_2025-AIR_100-4a67be?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Mentorship-200%2B_Students_%C2%B7_GSoC_%7C_SIH_%7C_Hackathons-586fde?style=for-the-badge&logo=googlescholar&logoColor=white" />
+
+</div>
 
 ---
 
