@@ -131,8 +131,6 @@ class PriyaSharma:
 <img src="https://raw.githubusercontent.com/PRIYA1102S/PRIYA1102S/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-> ⚙️ Setup note: this animated snake needs a one-time GitHub Action (`snake.yml`) added to this repo — instructions below.
-
 ---
 
 ### 🏆 Achievements
