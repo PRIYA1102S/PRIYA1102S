@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e6b,100:6a8dff&height=200&section=header&text=Priya%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Development%20Engineer%20%7C%20Agentic%20AI%20%26%20RAG%20Systems&descAlignY=55&descSize=16" width="100%"/>
+# Priya Sharma
 
-<a href="https://github.com/PRIYA1102S">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C3E6B&center=true&vCenter=true&width=600&lines=Building+Agentic+RAG+Systems+%F0%9F%A4%96;LangGraph+%7C+FastAPI+%7C+Python;500K%2B+embeddings+%7C+p95+%3C140ms;Turning+LLMs+into+Reliable+Products" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/AI%20Software%20Development%20Engineer-2c3e6b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI%20%26%20RAG%20Systems-3d5494?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python%20%C2%B7%20FastAPI%20%C2%B7%20LangGraph-4a67be?style=for-the-badge" />
 
-<p>
-  <a href="https://www.linkedin.com/in/priya-sharma-10baa01b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/priya1121/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="mailto:priyasharma110524@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=PRIYA1102S&style=for-the-badge&color=2c3e6b&label=PROFILE+VIEWS" />
-</p>
+<sub>Building production AI systems that hold up at scale — 500K+ embeddings · p95 &lt;140ms · hallucinations 8.5%→1.1%</sub>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/priya-sharma-10baa01b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/priya1121/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="mailto:priyasharma110524@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=PRIYA1102S&style=for-the-badge&color=2c3e6b&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -35,24 +37,51 @@ class PriyaSharma:
 
 ---
 
-### 💼 Experience Timeline
+### 💼 Experience
 
-```mermaid
-timeline
-    title Career Journey
-    Oct 2023 : Full Stack Developer @ Deloitte USI
-    Oct 2024 : Associate Software Developer @ Iauro Systems
-    Dec 2025 : AI Software Development Engineer @ Incanus Technologies
-```
+<table>
+<tr>
+<td width="100%">
 
-**AI Software Development Engineer** — *Incanus Technologies Pvt. Ltd.* &nbsp; `Dec 2025 – Present`
-> Architected a production Agentic RAG platform (LangGraph, 12+ conditional nodes), hybrid FAISS + BM25 search across 500K+ embeddings, and CollabDocs — a real-time CRDT-based collaborative editor.
+**AI Software Development Engineer** · Incanus Technologies Pvt. Ltd.
+<img src="https://img.shields.io/badge/Dec_2025_--_Present-2c3e6b?style=flat-square" />
 
-**Associate Software Developer** — *Iauro Systems Pvt. Ltd.* &nbsp; `Oct 2024 – Nov 2025`
-> Built React.js + FastAPI microfrontend modules for 5,000+ MAUs; cut DOM overhead by 40% and API latency from 1.8s → 380ms.
+- Architected a production Agentic RAG platform using LangGraph (12+ conditional nodes), with Redis-backed state persistence handling 50K+ daily state transitions
+- Engineered hybrid FAISS + BM25 search across 500K+ embeddings — p95 latency &lt;140ms, 96.4% Top-5 Recall
+- Built CollabDocs, a real-time CRDT-based collaborative document editor — 15+ concurrent editors, &lt;35ms sync latency
+- Cut production hallucination rate from 8.5% → 1.1% via automated LangSmith/DeepEval evaluation pipelines
 
-**Full Stack Developer** — *Deloitte USI* &nbsp; `Oct 2023 – Oct 2024`
-> Delivered scalable CRM workflows (React.js, Express.js, MongoDB), cutting turnaround time by 25%.
+<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Associate Software Developer** · Iauro Systems Pvt. Ltd. (Banking Client)
+<img src="https://img.shields.io/badge/Oct_2024_--_Nov_2025-3d5494?style=flat-square" />
+
+- Architected React.js + FastAPI microfrontend modules serving 5,000+ MAUs — 28% faster page loads
+- Implemented RBAC, token validation, and infinite-scroll virtualization — 40% lower DOM overhead, API latency 1.8s → 380ms
+
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Full Stack Developer** · Deloitte USI (CRM & Digital Product Engineering)
+<img src="https://img.shields.io/badge/Oct_2023_--_Oct_2024-4a67be?style=flat-square" />
+
+- Delivered scalable CRM workflows using React.js, Express.js, and MongoDB — 25% faster workflow turnaround
+- Optimized MongoDB aggregation pipelines and compound indexes — 30% lower peak-traffic CPU load
+
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ---
 
