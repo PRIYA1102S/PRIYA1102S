@@ -1,83 +1,169 @@
-# 👋 Hi there, I'm Priya Sharma!
+<div align="center">
 
-I'm a passionate **Full Stack Engineer** with 2.5+ years of experience building scalable web platforms, microfrontend-based applications, and assessment systems. I love clean architecture, mentoring developers and solving real-world problems with efficient code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e6b,100:6a8dff&height=200&section=header&text=Priya%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Development%20Engineer%20%7C%20Agentic%20AI%20%26%20RAG%20Systems&descAlignY=55&descSize=16" width="100%"/>
 
----
+<a href="https://github.com/PRIYA1102S">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C3E6B&center=true&vCenter=true&width=600&lines=Building+Agentic+RAG+Systems+%F0%9F%A4%96;LangGraph+%7C+FastAPI+%7C+Python;500K%2B+embeddings+%7C+p95+%3C140ms;Turning+LLMs+into+Reliable+Products" alt="Typing SVG" />
+</a>
 
-## 💼 Experience
+<p>
+  <a href="https://www.linkedin.com/in/priya-sharma-10baa01b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/priya1121/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:priyasharma110524@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=PRIYA1102S&style=for-the-badge&color=2c3e6b&label=PROFILE+VIEWS" />
+</p>
 
-🔹 **SDE-1 + Subject Matter Expert** at *Newton School of Technology* *(Dec 2025 – Present)*
-- Mentored **200+ students** across System Design, LLD, TypeScript, and backend engineering
-- Delivered sessions on SOLID principles, design patterns, microservices, and API architecture
-- Core engineering contributor on Newton's internal **assessment & coding platform** (LeetCode-style)
-- Built scalable modules for automated evaluation, submission management, and question dashboards
-- Guided students in **open-source contributions**, hackathons and resume building
-
-🔹 **Associate Software Developer** at *Iauro Systems Pvt. Ltd. — Banking Client* *(Oct 2024 – Nov 2025)*
-- Built high-reliability dashboards using **React.js**, **FastAPI**, and **microfrontend architecture** for **5,000+ MAUs**
-- Implemented **RBAC**, multi-role UI rendering, and authorization workflows — reduced access issues by 30%
-- Integrated server-side pagination, infinite scrolling, and data virtualization — cut DOM load by 40%
-- Optimized load performance via lazy loading, caching, and CDN delivery — reduced initial load time by 35%
-
-🔹 **Full Stack Developer** at *Agoryx* *(June 2024 – Oct 2024)*
-- Delivered end-to-end product workflows using the **MERN stack**
-- Engineered reusable React.js components and optimized MongoDB data models for faster queries
-
-🔹 **DC Analyst** at *Deloitte USI — CRM Project* *(Oct 2023 – Oct 2024)*
-- Developed dynamic role-driven workflows using **React.js**, **Node.js/Express**, and **MongoDB**
-- Built configurable validation layers improving operational efficiency and reducing turnaround time
-- Improved API documentation and frontend-backend collaboration, reducing integration issues
+</div>
 
 ---
 
-## 💻 Tech Stack
+### 🧑‍💻 About Me
 
-**Languages:** JavaScript, TypeScript, C/C++, Python, HTML5, CSS3, SASS  
-**Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Material UI, Styled Components, Storybook  
-**Backend:** Node.js, Express.js, FastAPI, GraphQL, REST APIs, JWT, OAuth2, Socket.IO  
-**Databases:** MongoDB, MySQL, Redis, Mongoose  
-**Cloud & Tools:** AWS, Docker, Git, GitHub, GitLab, CI/CD, Swagger, Postman, Vercel, Netlify, Render  
-**Core CS:** OS, OOP, DBMS, Computer Networks, Multithreading, Memory Management, System design
+I'm an **AI Software Development Engineer** with 3 years of experience building production-grade AI systems, Agentic RAG pipelines, LLM orchestration, and scalable backend infrastructure. I turn LangGraph workflows and hybrid retrieval pipelines into systems that actually hold up in production — **96.4% Top-5 Recall**, **p95 latency under 140ms**, and hallucination rates cut from **8.5% → 1.1%**.
 
----
+```python
+class PriyaSharma:
+    def __init__(self):
+        self.role = "AI Software Development Engineer"
+        self.focus = ["Agentic RAG", "LLM Orchestration", "Distributed Systems"]
+        self.stack = ["Python", "FastAPI", "LangGraph", "React.js", "Redis", "Docker"]
+        self.currently_building = "Production-grade multi-agent AI platforms"
 
-## 🚀 Projects
-
-**CollabDocs – Real-time Document Editor** | [Live Demo](#) · [GitHub](#)
-- Collaborative editor supporting **10+ concurrent users** with live cursor sync and secure sharing
-- End-to-end ownership: API design, authentication, deployment, and data modeling
-
-**Personal Portfolio Website** | [Live Demo](#) · [GitHub](#)
-- Responsive portfolio with project filtering, smooth animations, and SEO optimization
+    def say_hi(self):
+        return "Let's build something reliable together 🚀"
+```
 
 ---
 
-## 🏆 Achievements
+### 💼 Experience Timeline
 
-✅ **AWS Certified Developer – Associate** (Score: 820/1000)  
-🏅 **Top 2 Finalist** – Chhalaang 3.0 Women Hackathon  
-🎯 **AIR 100** – Naukri.com Brandquezt Contest 2025  
-🌍 **Mentor & Core Team Member** – Open Source Connect India  
+```mermaid
+timeline
+    title Career Journey
+    Oct 2023 : Full Stack Developer @ Deloitte USI
+    Oct 2024 : Associate Software Developer @ Iauro Systems
+    Dec 2025 : AI Software Development Engineer @ Incanus Technologies
+```
+
+🔹 **AI Software Development Engineer** — *Incanus Technologies Pvt. Ltd.* `Dec 2025 – Present`
+> Architected a production Agentic RAG platform (LangGraph, 12+ conditional nodes), hybrid FAISS + BM25 search across 500K+ embeddings, and CollabDocs — a real-time CRDT-based collaborative editor.
+
+🔹 **Associate Software Developer** — *Iauro Systems Pvt. Ltd.* `Oct 2024 – Nov 2025`
+> Built React.js + FastAPI microfrontend modules for 5,000+ MAUs; cut DOM overhead by 40% and API latency from 1.8s → 380ms.
+
+🔹 **Full Stack Developer** — *Deloitte USI* `Oct 2023 – Oct 2024`
+> Delivered scalable CRM workflows (React.js, Express.js, MongoDB), cutting turnaround time by 25%.
 
 ---
 
-## 📚 Currently Exploring
+### 🛠️ Tech Stack
 
-- ⚙️ Advanced System Design & Microservices
-- 🐳 Docker & Container Orchestration
-- ☁️ Cloud Architecture on AWS
-- 🧪 Unit Testing & CI/CD pipelines
+<div align="center">
+
+**AI & LLM**
+<img src="https://skillicons.dev/icons?i=python,pytorch" /> &nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+
+**Backend & Distributed Systems**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,redis,docker,kubernetes" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,js" />
+
+**Databases & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,githubactions,jenkins,git" />
+
+</div>
 
 ---
 
-## 📬 Let's Connect
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=flat-square)](https://github.com/PRIYA1102S)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=flat-square)](https://leetcode.com/priya1121/)
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PRIYA1102S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYA1102S&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYA1102S&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYA1102S&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/PRIYA1102S/PRIYA1102S/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> ⚙️ Setup note: this animated snake needs a one-time GitHub Action (`snake.yml`) added to this repo — instructions below.
+
+---
+
+### 🏆 Achievements & Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PRIYA1102S&theme=darkhub&no-frame=true&row=1&column=6" />
+</div>
+
+✅ **AWS Certified Developer – Associate** (2024) — Score: 820/1000
+🏅 **Top 2 Finalist** — Chhalaang 3.0 (500+ candidates)
+🎯 **AIR 100** — Naukri Brandquest (2025)
+🌍 **Mentored 200+ students** across GSoC, SIH, and hackathons
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔗 CollabDocs**
+Real-time collaborative document engine using CRDTs + WebSockets
+
+`React` `WebSockets` `CRDT`
+
+15+ concurrent editors · <35ms sync latency
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 Agentic RAG Platform**
+Production LangGraph system with hybrid FAISS + BM25 retrieval
+
+`LangGraph` `FAISS` `Redis`
+
+500K+ embeddings · 96.4% Top-5 Recall
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📬 Let's Connect
+
+<a href="https://www.linkedin.com/in/priya-sharma-10baa01b6/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
+<a href="https://github.com/PRIYA1102S"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=flat-square" /></a>
+<a href="https://leetcode.com/u/priya1121/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=flat-square" /></a>
 
 📧 priyasharma110524@gmail.com · 📱 +91 8114455640
 
----
+*"Always building. Always learning."*
 
-🚀 *"Always building. Always learning."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a8dff,100:2c3e6b&height=100&section=footer" width="100%"/>
+
+</div>
